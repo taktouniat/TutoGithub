@@ -1,0 +1,11 @@
+package beans;
+
+public class D {
+
+	public D() {
+		System.out.println("Bonjour de la classe D");
+	}
+	
+	
+
+}
