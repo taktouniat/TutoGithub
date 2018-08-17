@@ -10,6 +10,8 @@ public class Test {
 		A a = new A();
 		B b = new B();
 		C c = new C();
+		
+		System.out.println("creation d une branche test");
 
 	}
 
